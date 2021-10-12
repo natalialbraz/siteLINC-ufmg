@@ -1,1 +1,1 @@
-Site para o Labarotório de Câncer
+Site para o Laboratório de Câncer
